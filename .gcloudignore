@@ -1,0 +1,4 @@
+# ignore só o que realmente não precisa
+.git
+node_modules
+npm-debug.log
