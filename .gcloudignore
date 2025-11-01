@@ -1,4 +1,7 @@
-# ignore só o que realmente não precisa
+# Arquivos/pastas que o Cloud Run deve ignorar no deploy
 .git
+.gitignore
 node_modules
 npm-debug.log
+Dockerfile
+.env
